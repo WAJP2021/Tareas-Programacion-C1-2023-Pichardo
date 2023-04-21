@@ -1,7 +1,0 @@
-C:\Users\jimen\source\repos\Programa10\Programa10\obj\Debug\Programa10.csproj.AssemblyReference.cache
-C:\Users\jimen\source\repos\Programa10\Programa10\obj\Debug\Programa10.csproj.SuggestedBindingRedirects.cache
-C:\Users\jimen\source\repos\Programa10\Programa10\obj\Debug\Programa10.Form1.resources
-C:\Users\jimen\source\repos\Programa10\Programa10\obj\Debug\Programa10.Form2.resources
-C:\Users\jimen\source\repos\Programa10\Programa10\obj\Debug\Programa10.Properties.Resources.resources
-C:\Users\jimen\source\repos\Programa10\Programa10\obj\Debug\Programa10.csproj.GenerateResource.cache
-C:\Users\jimen\source\repos\Programa10\Programa10\obj\Debug\Programa10.csproj.CoreCompileInputs.cache

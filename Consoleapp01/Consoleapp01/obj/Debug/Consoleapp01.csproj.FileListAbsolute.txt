@@ -1,8 +1,0 @@
-C:\Users\jimen\source\repos\Consoleapp01\Consoleapp01\bin\Debug\Consoleapp01.exe.config
-C:\Users\jimen\source\repos\Consoleapp01\Consoleapp01\bin\Debug\Consoleapp01.exe
-C:\Users\jimen\source\repos\Consoleapp01\Consoleapp01\bin\Debug\Consoleapp01.pdb
-C:\Users\jimen\source\repos\Consoleapp01\Consoleapp01\obj\Debug\Consoleapp01.csproj.AssemblyReference.cache
-C:\Users\jimen\source\repos\Consoleapp01\Consoleapp01\obj\Debug\Consoleapp01.csproj.SuggestedBindingRedirects.cache
-C:\Users\jimen\source\repos\Consoleapp01\Consoleapp01\obj\Debug\Consoleapp01.csproj.CoreCompileInputs.cache
-C:\Users\jimen\source\repos\Consoleapp01\Consoleapp01\obj\Debug\Consoleapp01.exe
-C:\Users\jimen\source\repos\Consoleapp01\Consoleapp01\obj\Debug\Consoleapp01.pdb
