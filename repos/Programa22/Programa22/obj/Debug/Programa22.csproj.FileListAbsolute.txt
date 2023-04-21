@@ -1,0 +1,11 @@
+C:\Users\jimen\source\repos\Programa22\Programa22\obj\Debug\Programa22.csproj.AssemblyReference.cache
+C:\Users\jimen\source\repos\Programa22\Programa22\obj\Debug\Programa22.csproj.SuggestedBindingRedirects.cache
+C:\Users\jimen\source\repos\Programa22\Programa22\obj\Debug\Programa22.Form1.resources
+C:\Users\jimen\source\repos\Programa22\Programa22\obj\Debug\Programa22.Properties.Resources.resources
+C:\Users\jimen\source\repos\Programa22\Programa22\obj\Debug\Programa22.csproj.GenerateResource.cache
+C:\Users\jimen\source\repos\Programa22\Programa22\obj\Debug\Programa22.csproj.CoreCompileInputs.cache
+C:\Users\jimen\source\repos\Programa22\Programa22\bin\Debug\Programa22.exe.config
+C:\Users\jimen\source\repos\Programa22\Programa22\bin\Debug\Programa22.exe
+C:\Users\jimen\source\repos\Programa22\Programa22\bin\Debug\Programa22.pdb
+C:\Users\jimen\source\repos\Programa22\Programa22\obj\Debug\Programa22.exe
+C:\Users\jimen\source\repos\Programa22\Programa22\obj\Debug\Programa22.pdb

@@ -1,0 +1,11 @@
+C:\Users\jimen\source\repos\Programa35\Programa35\bin\Debug\Programa35.exe.config
+C:\Users\jimen\source\repos\Programa35\Programa35\bin\Debug\Programa35.exe
+C:\Users\jimen\source\repos\Programa35\Programa35\bin\Debug\Programa35.pdb
+C:\Users\jimen\source\repos\Programa35\Programa35\obj\Debug\Programa35.csproj.AssemblyReference.cache
+C:\Users\jimen\source\repos\Programa35\Programa35\obj\Debug\Programa35.csproj.SuggestedBindingRedirects.cache
+C:\Users\jimen\source\repos\Programa35\Programa35\obj\Debug\Programa35.Form1.resources
+C:\Users\jimen\source\repos\Programa35\Programa35\obj\Debug\Programa35.Properties.Resources.resources
+C:\Users\jimen\source\repos\Programa35\Programa35\obj\Debug\Programa35.csproj.GenerateResource.cache
+C:\Users\jimen\source\repos\Programa35\Programa35\obj\Debug\Programa35.csproj.CoreCompileInputs.cache
+C:\Users\jimen\source\repos\Programa35\Programa35\obj\Debug\Programa35.exe
+C:\Users\jimen\source\repos\Programa35\Programa35\obj\Debug\Programa35.pdb

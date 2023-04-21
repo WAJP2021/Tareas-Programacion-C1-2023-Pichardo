@@ -1,0 +1,11 @@
+C:\Users\jimen\source\repos\Programa4\Programa4\bin\Debug\Programa4.exe.config
+C:\Users\jimen\source\repos\Programa4\Programa4\bin\Debug\Programa4.exe
+C:\Users\jimen\source\repos\Programa4\Programa4\bin\Debug\Programa4.pdb
+C:\Users\jimen\source\repos\Programa4\Programa4\obj\Debug\Programa4.csproj.AssemblyReference.cache
+C:\Users\jimen\source\repos\Programa4\Programa4\obj\Debug\Programa4.csproj.SuggestedBindingRedirects.cache
+C:\Users\jimen\source\repos\Programa4\Programa4\obj\Debug\Programa4.Form1.resources
+C:\Users\jimen\source\repos\Programa4\Programa4\obj\Debug\Programa4.Properties.Resources.resources
+C:\Users\jimen\source\repos\Programa4\Programa4\obj\Debug\Programa4.csproj.GenerateResource.cache
+C:\Users\jimen\source\repos\Programa4\Programa4\obj\Debug\Programa4.csproj.CoreCompileInputs.cache
+C:\Users\jimen\source\repos\Programa4\Programa4\obj\Debug\Programa4.exe
+C:\Users\jimen\source\repos\Programa4\Programa4\obj\Debug\Programa4.pdb

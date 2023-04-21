@@ -1,0 +1,11 @@
+C:\Users\jimen\source\repos\Programa43\Programa43\obj\Debug\Programa43.csproj.AssemblyReference.cache
+C:\Users\jimen\source\repos\Programa43\Programa43\obj\Debug\Programa43.csproj.SuggestedBindingRedirects.cache
+C:\Users\jimen\source\repos\Programa43\Programa43\obj\Debug\Programa43.Properties.Resources.resources
+C:\Users\jimen\source\repos\Programa43\Programa43\obj\Debug\Programa43.csproj.GenerateResource.cache
+C:\Users\jimen\source\repos\Programa43\Programa43\obj\Debug\Programa43.csproj.CoreCompileInputs.cache
+C:\Users\jimen\source\repos\Programa43\Programa43\bin\Debug\Programa43.exe.config
+C:\Users\jimen\source\repos\Programa43\Programa43\bin\Debug\Programa43.exe
+C:\Users\jimen\source\repos\Programa43\Programa43\bin\Debug\Programa43.pdb
+C:\Users\jimen\source\repos\Programa43\Programa43\obj\Debug\Programa43.Form1.resources
+C:\Users\jimen\source\repos\Programa43\Programa43\obj\Debug\Programa43.exe
+C:\Users\jimen\source\repos\Programa43\Programa43\obj\Debug\Programa43.pdb
