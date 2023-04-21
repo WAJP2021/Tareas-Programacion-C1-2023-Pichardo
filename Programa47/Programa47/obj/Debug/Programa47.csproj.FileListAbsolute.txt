@@ -1,0 +1,11 @@
+C:\Users\jimen\source\repos\Programa47\Programa47\bin\Debug\Programa47.exe.config
+C:\Users\jimen\source\repos\Programa47\Programa47\bin\Debug\Programa47.exe
+C:\Users\jimen\source\repos\Programa47\Programa47\bin\Debug\Programa47.pdb
+C:\Users\jimen\source\repos\Programa47\Programa47\obj\Debug\Programa47.csproj.AssemblyReference.cache
+C:\Users\jimen\source\repos\Programa47\Programa47\obj\Debug\Programa47.csproj.SuggestedBindingRedirects.cache
+C:\Users\jimen\source\repos\Programa47\Programa47\obj\Debug\Programa47.Form1.resources
+C:\Users\jimen\source\repos\Programa47\Programa47\obj\Debug\Programa47.Properties.Resources.resources
+C:\Users\jimen\source\repos\Programa47\Programa47\obj\Debug\Programa47.csproj.GenerateResource.cache
+C:\Users\jimen\source\repos\Programa47\Programa47\obj\Debug\Programa47.csproj.CoreCompileInputs.cache
+C:\Users\jimen\source\repos\Programa47\Programa47\obj\Debug\Programa47.exe
+C:\Users\jimen\source\repos\Programa47\Programa47\obj\Debug\Programa47.pdb

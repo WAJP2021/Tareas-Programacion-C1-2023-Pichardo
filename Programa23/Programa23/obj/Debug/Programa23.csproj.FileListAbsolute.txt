@@ -1,0 +1,11 @@
+C:\Users\jimen\source\repos\Programa23\Programa23\bin\Debug\Programa23.exe.config
+C:\Users\jimen\source\repos\Programa23\Programa23\bin\Debug\Programa23.exe
+C:\Users\jimen\source\repos\Programa23\Programa23\bin\Debug\Programa23.pdb
+C:\Users\jimen\source\repos\Programa23\Programa23\obj\Debug\Programa23.csproj.AssemblyReference.cache
+C:\Users\jimen\source\repos\Programa23\Programa23\obj\Debug\Programa23.csproj.SuggestedBindingRedirects.cache
+C:\Users\jimen\source\repos\Programa23\Programa23\obj\Debug\Programa23.Form1.resources
+C:\Users\jimen\source\repos\Programa23\Programa23\obj\Debug\Programa23.Properties.Resources.resources
+C:\Users\jimen\source\repos\Programa23\Programa23\obj\Debug\Programa23.csproj.GenerateResource.cache
+C:\Users\jimen\source\repos\Programa23\Programa23\obj\Debug\Programa23.csproj.CoreCompileInputs.cache
+C:\Users\jimen\source\repos\Programa23\Programa23\obj\Debug\Programa23.exe
+C:\Users\jimen\source\repos\Programa23\Programa23\obj\Debug\Programa23.pdb

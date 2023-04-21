@@ -1,0 +1,11 @@
+C:\Users\jimen\source\repos\Programa54\Programa54\bin\Debug\Programa54.exe.config
+C:\Users\jimen\source\repos\Programa54\Programa54\bin\Debug\Programa54.exe
+C:\Users\jimen\source\repos\Programa54\Programa54\bin\Debug\Programa54.pdb
+C:\Users\jimen\source\repos\Programa54\Programa54\obj\Debug\Programa54.csproj.AssemblyReference.cache
+C:\Users\jimen\source\repos\Programa54\Programa54\obj\Debug\Programa54.csproj.SuggestedBindingRedirects.cache
+C:\Users\jimen\source\repos\Programa54\Programa54\obj\Debug\Programa54.Form1.resources
+C:\Users\jimen\source\repos\Programa54\Programa54\obj\Debug\Programa54.Properties.Resources.resources
+C:\Users\jimen\source\repos\Programa54\Programa54\obj\Debug\Programa54.csproj.GenerateResource.cache
+C:\Users\jimen\source\repos\Programa54\Programa54\obj\Debug\Programa54.csproj.CoreCompileInputs.cache
+C:\Users\jimen\source\repos\Programa54\Programa54\obj\Debug\Programa54.exe
+C:\Users\jimen\source\repos\Programa54\Programa54\obj\Debug\Programa54.pdb

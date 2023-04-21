@@ -1,0 +1,11 @@
+C:\Users\jimen\source\repos\Programa28\Programa28\bin\Debug\Programa28.exe.config
+C:\Users\jimen\source\repos\Programa28\Programa28\bin\Debug\Programa28.exe
+C:\Users\jimen\source\repos\Programa28\Programa28\bin\Debug\Programa28.pdb
+C:\Users\jimen\source\repos\Programa28\Programa28\obj\Debug\Programa28.csproj.AssemblyReference.cache
+C:\Users\jimen\source\repos\Programa28\Programa28\obj\Debug\Programa28.csproj.SuggestedBindingRedirects.cache
+C:\Users\jimen\source\repos\Programa28\Programa28\obj\Debug\Programa28.Form1.resources
+C:\Users\jimen\source\repos\Programa28\Programa28\obj\Debug\Programa28.Properties.Resources.resources
+C:\Users\jimen\source\repos\Programa28\Programa28\obj\Debug\Programa28.csproj.GenerateResource.cache
+C:\Users\jimen\source\repos\Programa28\Programa28\obj\Debug\Programa28.csproj.CoreCompileInputs.cache
+C:\Users\jimen\source\repos\Programa28\Programa28\obj\Debug\Programa28.exe
+C:\Users\jimen\source\repos\Programa28\Programa28\obj\Debug\Programa28.pdb

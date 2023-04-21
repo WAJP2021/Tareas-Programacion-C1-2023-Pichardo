@@ -1,0 +1,11 @@
+C:\Users\jimen\source\repos\Porgrama46\Porgrama46\bin\Debug\Porgrama46.exe.config
+C:\Users\jimen\source\repos\Porgrama46\Porgrama46\bin\Debug\Porgrama46.exe
+C:\Users\jimen\source\repos\Porgrama46\Porgrama46\bin\Debug\Porgrama46.pdb
+C:\Users\jimen\source\repos\Porgrama46\Porgrama46\obj\Debug\Porgrama46.csproj.AssemblyReference.cache
+C:\Users\jimen\source\repos\Porgrama46\Porgrama46\obj\Debug\Porgrama46.csproj.SuggestedBindingRedirects.cache
+C:\Users\jimen\source\repos\Porgrama46\Porgrama46\obj\Debug\Porgrama46.Form1.resources
+C:\Users\jimen\source\repos\Porgrama46\Porgrama46\obj\Debug\Porgrama46.Properties.Resources.resources
+C:\Users\jimen\source\repos\Porgrama46\Porgrama46\obj\Debug\Porgrama46.csproj.GenerateResource.cache
+C:\Users\jimen\source\repos\Porgrama46\Porgrama46\obj\Debug\Porgrama46.csproj.CoreCompileInputs.cache
+C:\Users\jimen\source\repos\Porgrama46\Porgrama46\obj\Debug\Porgrama46.exe
+C:\Users\jimen\source\repos\Porgrama46\Porgrama46\obj\Debug\Porgrama46.pdb

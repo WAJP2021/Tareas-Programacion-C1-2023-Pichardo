@@ -1,0 +1,12 @@
+C:\Users\jimen\source\repos\Programa9\Programa9\obj\Debug\Programa9.csproj.AssemblyReference.cache
+C:\Users\jimen\source\repos\Programa9\Programa9\obj\Debug\Programa9.csproj.SuggestedBindingRedirects.cache
+C:\Users\jimen\source\repos\Programa9\Programa9\obj\Debug\Programa9.Form1.resources
+C:\Users\jimen\source\repos\Programa9\Programa9\obj\Debug\Programa9.Form2.resources
+C:\Users\jimen\source\repos\Programa9\Programa9\obj\Debug\Programa9.Properties.Resources.resources
+C:\Users\jimen\source\repos\Programa9\Programa9\obj\Debug\Programa9.csproj.GenerateResource.cache
+C:\Users\jimen\source\repos\Programa9\Programa9\obj\Debug\Programa9.csproj.CoreCompileInputs.cache
+C:\Users\jimen\source\repos\Programa9\Programa9\bin\Debug\Programa9.exe.config
+C:\Users\jimen\source\repos\Programa9\Programa9\bin\Debug\Programa9.exe
+C:\Users\jimen\source\repos\Programa9\Programa9\bin\Debug\Programa9.pdb
+C:\Users\jimen\source\repos\Programa9\Programa9\obj\Debug\Programa9.exe
+C:\Users\jimen\source\repos\Programa9\Programa9\obj\Debug\Programa9.pdb
