@@ -1,0 +1,11 @@
+C:\Users\jimen\source\repos\Programa13\Programa13\bin\Debug\Programa13.exe.config
+C:\Users\jimen\source\repos\Programa13\Programa13\bin\Debug\Programa13.exe
+C:\Users\jimen\source\repos\Programa13\Programa13\bin\Debug\Programa13.pdb
+C:\Users\jimen\source\repos\Programa13\Programa13\obj\Debug\Programa13.csproj.AssemblyReference.cache
+C:\Users\jimen\source\repos\Programa13\Programa13\obj\Debug\Programa13.csproj.SuggestedBindingRedirects.cache
+C:\Users\jimen\source\repos\Programa13\Programa13\obj\Debug\Programa13.Form1.resources
+C:\Users\jimen\source\repos\Programa13\Programa13\obj\Debug\Programa13.Properties.Resources.resources
+C:\Users\jimen\source\repos\Programa13\Programa13\obj\Debug\Programa13.csproj.GenerateResource.cache
+C:\Users\jimen\source\repos\Programa13\Programa13\obj\Debug\Programa13.csproj.CoreCompileInputs.cache
+C:\Users\jimen\source\repos\Programa13\Programa13\obj\Debug\Programa13.exe
+C:\Users\jimen\source\repos\Programa13\Programa13\obj\Debug\Programa13.pdb

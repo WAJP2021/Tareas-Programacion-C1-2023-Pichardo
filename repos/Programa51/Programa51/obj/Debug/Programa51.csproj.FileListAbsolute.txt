@@ -1,0 +1,11 @@
+C:\Users\jimen\source\repos\Programa51\Programa51\obj\Debug\Programa51.csproj.AssemblyReference.cache
+C:\Users\jimen\source\repos\Programa51\Programa51\obj\Debug\Programa51.csproj.SuggestedBindingRedirects.cache
+C:\Users\jimen\source\repos\Programa51\Programa51\obj\Debug\Programa51.Form1.resources
+C:\Users\jimen\source\repos\Programa51\Programa51\obj\Debug\Programa51.Properties.Resources.resources
+C:\Users\jimen\source\repos\Programa51\Programa51\obj\Debug\Programa51.csproj.GenerateResource.cache
+C:\Users\jimen\source\repos\Programa51\Programa51\obj\Debug\Programa51.csproj.CoreCompileInputs.cache
+C:\Users\jimen\source\repos\Programa51\Programa51\bin\Debug\Programa51.exe.config
+C:\Users\jimen\source\repos\Programa51\Programa51\bin\Debug\Programa51.exe
+C:\Users\jimen\source\repos\Programa51\Programa51\bin\Debug\Programa51.pdb
+C:\Users\jimen\source\repos\Programa51\Programa51\obj\Debug\Programa51.exe
+C:\Users\jimen\source\repos\Programa51\Programa51\obj\Debug\Programa51.pdb

@@ -1,0 +1,11 @@
+C:\Users\jimen\source\repos\Programa18\Programa18\bin\Debug\Programa18.exe.config
+C:\Users\jimen\source\repos\Programa18\Programa18\bin\Debug\Programa18.exe
+C:\Users\jimen\source\repos\Programa18\Programa18\bin\Debug\Programa18.pdb
+C:\Users\jimen\source\repos\Programa18\Programa18\obj\Debug\Programa18.csproj.AssemblyReference.cache
+C:\Users\jimen\source\repos\Programa18\Programa18\obj\Debug\Programa18.csproj.SuggestedBindingRedirects.cache
+C:\Users\jimen\source\repos\Programa18\Programa18\obj\Debug\Programa18.Form1.resources
+C:\Users\jimen\source\repos\Programa18\Programa18\obj\Debug\Programa18.Properties.Resources.resources
+C:\Users\jimen\source\repos\Programa18\Programa18\obj\Debug\Programa18.csproj.GenerateResource.cache
+C:\Users\jimen\source\repos\Programa18\Programa18\obj\Debug\Programa18.csproj.CoreCompileInputs.cache
+C:\Users\jimen\source\repos\Programa18\Programa18\obj\Debug\Programa18.exe
+C:\Users\jimen\source\repos\Programa18\Programa18\obj\Debug\Programa18.pdb

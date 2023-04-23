@@ -1,0 +1,12 @@
+C:\Users\jimen\source\repos\Programa36\Programa36\bin\Debug\Programa36.exe.config
+C:\Users\jimen\source\repos\Programa36\Programa36\bin\Debug\Programa36.exe
+C:\Users\jimen\source\repos\Programa36\Programa36\bin\Debug\Programa36.pdb
+C:\Users\jimen\source\repos\Programa36\Programa36\obj\Debug\Programa36.csproj.AssemblyReference.cache
+C:\Users\jimen\source\repos\Programa36\Programa36\obj\Debug\Programa36.csproj.SuggestedBindingRedirects.cache
+C:\Users\jimen\source\repos\Programa36\Programa36\obj\Debug\Programa36.Form1.resources
+C:\Users\jimen\source\repos\Programa36\Programa36\obj\Debug\Programa36.Form2.resources
+C:\Users\jimen\source\repos\Programa36\Programa36\obj\Debug\Programa36.Properties.Resources.resources
+C:\Users\jimen\source\repos\Programa36\Programa36\obj\Debug\Programa36.csproj.GenerateResource.cache
+C:\Users\jimen\source\repos\Programa36\Programa36\obj\Debug\Programa36.csproj.CoreCompileInputs.cache
+C:\Users\jimen\source\repos\Programa36\Programa36\obj\Debug\Programa36.exe
+C:\Users\jimen\source\repos\Programa36\Programa36\obj\Debug\Programa36.pdb

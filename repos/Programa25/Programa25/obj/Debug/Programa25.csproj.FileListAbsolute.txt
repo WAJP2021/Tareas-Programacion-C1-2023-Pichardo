@@ -1,0 +1,11 @@
+C:\Users\jimen\source\repos\Programa25\Programa25\bin\Debug\Programa25.exe.config
+C:\Users\jimen\source\repos\Programa25\Programa25\bin\Debug\Programa25.exe
+C:\Users\jimen\source\repos\Programa25\Programa25\bin\Debug\Programa25.pdb
+C:\Users\jimen\source\repos\Programa25\Programa25\obj\Debug\Programa25.csproj.AssemblyReference.cache
+C:\Users\jimen\source\repos\Programa25\Programa25\obj\Debug\Programa25.csproj.SuggestedBindingRedirects.cache
+C:\Users\jimen\source\repos\Programa25\Programa25\obj\Debug\Programa25.Form1.resources
+C:\Users\jimen\source\repos\Programa25\Programa25\obj\Debug\Programa25.Properties.Resources.resources
+C:\Users\jimen\source\repos\Programa25\Programa25\obj\Debug\Programa25.csproj.GenerateResource.cache
+C:\Users\jimen\source\repos\Programa25\Programa25\obj\Debug\Programa25.csproj.CoreCompileInputs.cache
+C:\Users\jimen\source\repos\Programa25\Programa25\obj\Debug\Programa25.exe
+C:\Users\jimen\source\repos\Programa25\Programa25\obj\Debug\Programa25.pdb

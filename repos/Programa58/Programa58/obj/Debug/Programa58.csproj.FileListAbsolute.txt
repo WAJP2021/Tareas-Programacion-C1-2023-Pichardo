@@ -1,0 +1,11 @@
+C:\Users\jimen\source\repos\Programa58\Programa58\bin\Debug\Programa58.exe.config
+C:\Users\jimen\source\repos\Programa58\Programa58\bin\Debug\Programa58.exe
+C:\Users\jimen\source\repos\Programa58\Programa58\bin\Debug\Programa58.pdb
+C:\Users\jimen\source\repos\Programa58\Programa58\obj\Debug\Programa58.csproj.AssemblyReference.cache
+C:\Users\jimen\source\repos\Programa58\Programa58\obj\Debug\Programa58.csproj.SuggestedBindingRedirects.cache
+C:\Users\jimen\source\repos\Programa58\Programa58\obj\Debug\Programa58.Form1.resources
+C:\Users\jimen\source\repos\Programa58\Programa58\obj\Debug\Programa58.Properties.Resources.resources
+C:\Users\jimen\source\repos\Programa58\Programa58\obj\Debug\Programa58.csproj.GenerateResource.cache
+C:\Users\jimen\source\repos\Programa58\Programa58\obj\Debug\Programa58.csproj.CoreCompileInputs.cache
+C:\Users\jimen\source\repos\Programa58\Programa58\obj\Debug\Programa58.exe
+C:\Users\jimen\source\repos\Programa58\Programa58\obj\Debug\Programa58.pdb
